@@ -1,0 +1,5 @@
+C:\Users\Paulo Rogério\Documents\GitHub\prmToolkit.Notification\prmToolkit.Notification\bin\Release\prmToolkit.ValidateCondition.dll
+C:\Users\Paulo Rogério\Documents\GitHub\prmToolkit.Notification\prmToolkit.Notification\bin\Release\prmToolkit.ValidateCondition.pdb
+C:\Users\Paulo Rogério\Documents\GitHub\prmToolkit.Notification\prmToolkit.Notification\obj\Release\prmToolkit.Notification.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Rogério\Documents\GitHub\prmToolkit.Notification\prmToolkit.Notification\obj\Release\prmToolkit.ValidateCondition.dll
+C:\Users\Paulo Rogério\Documents\GitHub\prmToolkit.Notification\prmToolkit.Notification\obj\Release\prmToolkit.ValidateCondition.pdb
